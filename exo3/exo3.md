@@ -11,5 +11,4 @@
 * Pas d'algorithmes complexes, juste des print ;)
 
 ### Aide
-
-Sortez un bon vieux crayon pour schématiser vos dépendances d'héritages
+$Sortez un bon vieux crayon pour schématiser vos dépendances d'héritages
